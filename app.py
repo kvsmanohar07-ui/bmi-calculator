@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("⚖️ BMI Calculator")
-st.write("Made by K.V.S. Manohar Reddy | 【entity-OASIS¦canonical_name=OASIS】 INFOBYTE - Task 2")
+st.write("Made by K.V.S. Manohar Reddy | OASIS INFOBYTE - Task 2")
 
 st.write("Enter your details:")
 
