@@ -5,7 +5,7 @@ st.write("Made by K.V.S. Manohar Reddy | 【entity-OASIS¦canonical_name=OASIS�
 
 st.write("Enter your details:")
 
-# Inputs - 【entity-OASIS¦canonical_name=OASIS】 rule
+# Inputs
 weight = st.number_input("Enter Weight (in kg):", min_value=0.0, value=0.0, step=0.1)
 height_cm = st.number_input("Enter Height (in cm):", min_value=0.0, value=0.0, step=0.1)
 
